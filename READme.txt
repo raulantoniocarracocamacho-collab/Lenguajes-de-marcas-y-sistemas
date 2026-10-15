@@ -22,3 +22,6 @@ Este proyecto consiste en un análisis detallado de la saga de videojuegos God o
 - `index.html`: página web de presentación del tema.
 - `datos.xml`: datos de los elementos incluidos en la página.
 - `img/`: carpeta para las imágenes del proyecto.
+
+¿Que he hecho en esta entrega?
+He hecho la pagina mostrando una pequeña introducción, el porque destaca, una pagina con información sobre la saga, añadido datos sobre 2 juegos y 3 personajes importantes y mandado en varios commits a mi tutora
